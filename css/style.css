@@ -1,14 +1,14 @@
 @font-face {
     font-family: "AVENGEANCE MIGHTIEST AVENGER";
-    src: url(../font-awesome-4.6.3/fonts/AVENGEANCE\ MIGHTIEST\ AVENGER.ttf);
+    src: url();
     font-family: "AVENGEANCE HEROIC AVENGER";
-    src: url(../font-awesome-4.6.3/fonts/AVENGEANCE\ HEROIC\ AVENGER.otf);
+    src: url(font-awesome-4.6.3/fonts/AVENGEANCE\ HEROIC\ AVENGER.otf);
   }
 
 .tm-banner-title, .tm-sidebar, .tm-section-title { 
 	color: white;
     font-family: "AVENGEANCE HEROIC AVENGER";
-    src: url(../font-awesome-4.6.3/fonts/AVENGEANCE\ HEROIC\ AVENGER.otf);
+    src: url(font-awesome-4.6.3/fonts/AVENGEANCE\ HEROIC\ AVENGER.otf);
 	
 }
 .tm-section-title{
@@ -16,7 +16,7 @@
 }
 .subt, figure.effect-bubba h2 {
     font-family: "AVENGEANCE MIGHTIEST AVENGER";
-    src: url(../font-awesome-4.6.3/fonts/AVENGEANCE\ MIGHTIEST\ AVENGER.ttf);
+    src: url(font-awesome-4.6.3/fonts/AVENGEANCE\ MIGHTIEST\ AVENGER.ttf);
     color:white;
 }
 .tm-button{
@@ -40,7 +40,7 @@
     border-radius:5px; 
     border-color: black;
     font-family: "AVENGEANCE MIGHTIEST AVENGER";
-    src: url(../font-awesome-4.6.3/fonts/AVENGEANCE\ MIGHTIEST\ AVENGER.ttf);
+    src: url(font-awesome-4.6.3/fonts/AVENGEANCE\ MIGHTIEST\ AVENGER.ttf);
 }
 #busq:hover,
 #busq.active {
@@ -52,7 +52,7 @@
 .lisOr{
     color: white;
     font-family: "AVENGEANCE MIGHTIEST AVENGER";
-    src: url(../font-awesome-4.6.3/fonts/AVENGEANCE\ MIGHTIEST\ AVENGER.ttf);
+    src: url(font-awesome-4.6.3/fonts/AVENGEANCE\ MIGHTIEST\ AVENGER.ttf);
     font-size: 15px;
 }
 #enlace{
@@ -78,12 +78,12 @@
     background-color: midnightblue;
     opacity: 0.9;
     font-family: "AVENGEANCE MIGHTIEST AVENGER";
-    src: url(../font-awesome-4.6.3/fonts/AVENGEANCE\ MIGHTIEST\ AVENGER.ttf);
+    src: url(font-awesome-4.6.3/fonts/AVENGEANCE\ MIGHTIEST\ AVENGER.ttf);
 }
 #opaci{
     opacity: 0.9;
     font-family: "AVENGEANCE MIGHTIEST AVENGER";
-    src: url(../font-awesome-4.6.3/fonts/AVENGEANCE\ MIGHTIEST\ AVENGER.ttf);
+    src: url(font-awesome-4.6.3/fonts/AVENGEANCE\ MIGHTIEST\ AVENGER.ttf);
 }
 #colorFor{
     color: black;
@@ -99,7 +99,7 @@
 }
 table {
     font-family: "AVENGEANCE MIGHTIEST AVENGER";
-    src: url(../font-awesome-4.6.3/fonts/AVENGEANCE\ MIGHTIEST\ AVENGER.ttf);
+    src: url(font-awesome-4.6.3/fonts/AVENGEANCE\ MIGHTIEST\ AVENGER.ttf);
     font-size: 15px;    
     margin: 45px;     
     width: 700px; 
@@ -144,15 +144,15 @@ tr:hover td {
 }
 #badge p{
     font-family: "AVENGEANCE MIGHTIEST AVENGER";
-    src: url(../font-awesome-4.6.3/fonts/AVENGEANCE\ MIGHTIEST\ AVENGER.ttf);
+    src: url(font-awesome-4.6.3/fonts/AVENGEANCE\ MIGHTIEST\ AVENGER.ttf);
 }
 #badge h2{
     font-family: "AVENGEANCE HEROIC AVENGER";
-    src: url(../font-awesome-4.6.3/fonts/AVENGEANCE\ HEROIC\ AVENGER.otf);
+    src: url(font-awesome-4.6.3/fonts/AVENGEANCE\ HEROIC\ AVENGER.otf);
 }
 #tipeli{
     font-family: "AVENGEANCE MIGHTIEST AVENGER";
-    src: url(../font-awesome-4.6.3/fonts/AVENGEANCE\ MIGHTIEST\ AVENGER.ttf);
+    src: url(font-awesome-4.6.3/fonts/AVENGEANCE\ MIGHTIEST\ AVENGER.ttf);
     color: white;
 }
 .img-thumbnail:hover {
@@ -166,7 +166,7 @@ tr:hover td {
 
 .butINI #enlaini{
     font-family: "AVENGEANCE MIGHTIEST AVENGER";
-    src: url(../font-awesome-4.6.3/fonts/AVENGEANCE\ MIGHTIEST\ AVENGER.ttf);
+    src: url(font-awesome-4.6.3/fonts/AVENGEANCE\ MIGHTIEST\ AVENGER.ttf);
     color: white; 
     text-decoration: none;
 }
