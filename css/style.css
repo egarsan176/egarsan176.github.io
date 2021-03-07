@@ -1,9 +1,11 @@
 @font-face {
     font-family: "AVENGEANCE MIGHTIEST AVENGER";
     src: url(font-awesome-4.6.3/fonts/AVENGEANCE\ MIGHTIEST\ AVENGER.ttf);
+}
+@font-face{
     font-family: "AVENGEANCE HEROIC AVENGER";
     src: url(font-awesome-4.6.3/fonts/AVENGEANCE\ HEROIC\ AVENGER.otf);
-  }
+}
 
 .tm-banner-title, .tm-sidebar, .tm-section-title { 
 	color: white;
